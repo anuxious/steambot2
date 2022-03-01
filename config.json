@@ -10,13 +10,13 @@
     "maxOwnerComments": 0,
     "randomizeAccounts": false,
     "unfriendtime": 31,
-    "playinggames": ["!help | 3urobeat", 440, 730],
+    "playinggames": ["!help | wilgot8", 440, 730],
     "childaccplayinggames": [],
-    "yourgroup": "https://steamcommunity.com/groups/3urobeatGroup",
-    "botsgroup": "https://steamcommunity.com/groups/3urobeatGroup",
+    "yourgroup": "https://steamcommunity.com/groups/wilgot8Group",
+    "botsgroup": "https://steamcommunity.com/groups/wilgot8Group",
     "acceptgroupinvites": true,
-    "owner": "https://steamcommunity.com/id/3urobeat",
-    "ownerid": ["76561198260031749"],
+    "owner": "https://steamcommunity.com/id/wilgot8",
+    "ownerid": ["76561197997524850"],
     "enableevalcmd": false,
     "enableurltocomment": false
 }
