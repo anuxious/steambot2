@@ -1,2 +1,2 @@
 //Comment: This file is an alternative for providing login informations in the form of username:password. Read instructions here: https://github.com/HerrEurobeat/steam-comment-service-bot#accounts
-
+wilgot8:Password123x!
